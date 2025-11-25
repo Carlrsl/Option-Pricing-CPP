@@ -7,7 +7,7 @@ The engine follows a strict Object-Oriented architecture and uses modern C++ STL
 ## 👥 The Team
 Project realized by:
 * **Carl ROUSSEL**
-* **Alec REYNAN**
+* **Alec REYNEN**
 * **Thibault PELOU**
 * **Louis ROZE**
 * **Hugo PICARD**
